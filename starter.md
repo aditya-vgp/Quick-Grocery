@@ -1,0 +1,5 @@
+To run this project it took a couple of hitches to install the necessary applications but then all got sorted out
+
+Microsoft Visual Studio IDE was used using the technologies C# Langauge and MySQL
+
+I was responsibe for the front-end UI designing and Project-charter but I also learned the necessary concepts needed to run this application
