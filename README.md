@@ -8,4 +8,4 @@ Role: Front-end Development | Project-Charter
 
 Skills Used: HTML, CSS, MySQL, Coreldraw & Photoshop
 
-Details: Designed a user-friendly website for online shopping for groceries and consumer products due to the issues faced during the Covid pandemic.
+Details: Designed a user-friendly website for online shopping for groceries and consumer products to ease shopping and provide the convenience of shopping from home which is the new norm owing to the Covid pandemic.
