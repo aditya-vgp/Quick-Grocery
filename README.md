@@ -2,7 +2,7 @@ Hello this is Aditya!✨
 
 This is my BCA project called "Quick Grocery" 🛒
 
-Team Members: Team-based (2 members) part
+Team Members: Team-based (2 members)
 
 Role: Front-end Development | Project-Charter
 
